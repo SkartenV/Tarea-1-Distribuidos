@@ -1,0 +1,17 @@
+Num Datanode           Mensaje
+
+2                      Mensaje numero 1 
+1                      Mensaje numero 2 
+1                      Mensaje numero 3 
+1                      Mensaje numero 4 
+1                      Mensaje numero 5 
+1                      Mensaje numero 6 
+2                      Mensaje numero 7 
+1                      Mensaje numero 8 
+2                      Mensaje numero 9 
+1                      Mensaje numero 10 
+2                      Mensaje numero 11 
+2                      Mensaje numero 12 
+2                      Mensaje numero 13 
+2                      Mensaje numero 14 
+2                      Mensaje numero 15 

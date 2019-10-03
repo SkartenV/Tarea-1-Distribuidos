@@ -1,0 +1,88 @@
+Datanode1 vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode1 vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode1 vivo
+Datanode1 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo
+Datanode2 vivo
+Datanode3 vivo
+Datanode3 no vivo

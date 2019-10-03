@@ -1,0 +1,41 @@
+version: '3'
+
+services:
+  headnode:
+    build: 
+      context: ./headnode
+    container_name: "headnode"
+    volumes:
+     - ./headnode:/app2
+  datanode1:
+    build: 
+      context: ./datanode1
+    container_name: "datanode1"
+    depends_on:
+      [headnode]
+    volumes:
+      - ./datanode1:/app2
+  datanode2:
+    build: 
+      context: ./datanode2
+    container_name: "datanode2"
+    depends_on:
+        [headnode]
+    volumes:
+      - ./datanode2:/app2
+  datanode3:
+    build: 
+      context: ./datanode3
+    container_name: "datanode3"
+    depends_on:
+      [headnode]
+    volumes:
+      - ./datanode3:/app2
+  client:
+    build: 
+      context: ./client
+    container_name: "client"
+    depends_on:
+      [headnode,datanode1,datanode2,datanode3]
+    volumes:
+      - ./client:/app2
